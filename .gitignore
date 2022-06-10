@@ -1,0 +1,8 @@
+# VS Code files
+.vscode/*
+
+#Python test case
+/testcases
+
+#Pycache files
+/__pycache__
