@@ -2,6 +2,7 @@
 .vscode/*
 
 #Python test case
+test.ipynb
 /testcases
 
 #Pycache files
